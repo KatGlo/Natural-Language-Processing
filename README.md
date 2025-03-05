@@ -1,9 +1,6 @@
 # Natural Language Processing – Laboratory Exercises 📚💻
 Laboratory exercises from the NLP course @AGH Kraków: RegExp, NER, QA, RAG, neural networks, classification, and more! 
 
-**AGH University of Science and Technology, Kraków**  
-**Faculty of Computer Science**
-
 ---
 
 ## 🚀 Overview
